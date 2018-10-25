@@ -1,4 +1,4 @@
-#Routine for 2D multiple splits until Ecrit is reached for all partons, assumes boosted limit, initial parton along "x" direction
+#Routine for 2D multiple splits until Ecrit is reached for all partons, initial parton along "x" direction
 import random
 import math
 import matplotlib.pyplot as plt
