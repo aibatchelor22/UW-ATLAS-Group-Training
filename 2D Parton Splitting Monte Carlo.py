@@ -14,7 +14,6 @@ Ei = 100.
 m = 1.
 Pxi = math.sqrt(Ei**2-m**2)
 Pyi = 0
-Pi = [Ei, Pxi, Pyi]
 Ecrit = 2.
 nextLoc = [0.,0.]
 momentumVectors = []
