@@ -23,8 +23,6 @@ moreSplits = True
 nextSplitData = [[Ei,Pxi,Pyi,0.,0.]]
 
 #Graph initial parton as line from [-1,0] to [0,0]
-#This might be a good way to simply update the list of lines
-#lines = [[(-1, -0), (0, 0)]]
 lines = [[(-1, -0), (0, 0)]]
 lcinit = mc.LineCollection(lines, linewidths=2)
 fig, ax = pl.subplots()
