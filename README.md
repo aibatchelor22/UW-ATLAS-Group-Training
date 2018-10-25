@@ -1,5 +1,5 @@
 # UW-ATLAS-Group-Training
-A collection of code for Monte Carlo siumlations for particle physics (more specifically, the the Large Hadron Collider) for analyzing products of particle collisions.  
+A collection of code for Monte Carlo simulations for particle physics (more specifically, the the Large Hadron Collider) for analyzing products of particle collisions.  
 
 The code includes several sections
 
