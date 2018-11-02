@@ -1,4 +1,4 @@
-#Routine for 3D multiple splits until Ecrit is reached for all partons, initial parton along "z" direction
+#Routine for 3D multiple splits until Ecrit is reached for all partons, initial parton along "z" direction, followed by clustering algorithm
 import random
 import math
 import matplotlib.pyplot as plt
