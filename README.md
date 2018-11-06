@@ -10,5 +10,3 @@ The code includes several sections
 -Generating a 3D parton shower (stochastic splitting of unstable particles)
 
 -Clustering algorithms on parton showers to identify particle jets
-
--Pseudomass calculations of particle jets
